@@ -6,11 +6,11 @@
 >
 ### Dataset description
 > Customer: Contains the information of customers
--customer_id – ID of the customer
--first_name – First name of the customer
--last_name – Last name of the customer
--date_of_birth – Date of birth of the customer
--gender – Gender of the customer
+  -customer_id – ID of the customer
+  -first_name – First name of the customer
+  -last_name – Last name of the customer
+  -date_of_birth – Date of birth of the customer
+  -gender – Gender of the customer
 > 
 >passengers_on_flights: Contains information about the travel details
 -aircraft_id – ID of each aircraft in a brand
