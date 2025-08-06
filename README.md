@@ -42,3 +42,11 @@
     Destination_airport – Arrival location
     Aircraft_id – ID of each aircraft in a brand
     Distance_miles – Distance between departure and arrival location
+
+### written queries
+![p2-s1](https://github.com/user-attachments/assets/1cd1d6e8-4a79-47a5-aed7-3b719021ce0c)
+![p2-s2](https://github.com/user-attachments/assets/05e38625-858d-48f9-aad3-ba67c9b4a7ba)
+![p2-s3](https://github.com/user-attachments/assets/77cb6974-63df-41d2-a2e2-39613ca119e1)
+![p2-s4](https://github.com/user-attachments/assets/b3afb1b4-3bf7-4c5b-ab62-82378b2afa2b)
+![p2-s5](https://github.com/user-attachments/assets/d6140b53-1047-4344-b3c6-e330957f3f1b)
+![p2-s6](https://github.com/user-attachments/assets/64e0bd4b-dcfa-4723-ba66-c5352de641a6)
